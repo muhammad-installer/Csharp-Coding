@@ -5,9 +5,13 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple", "Tuple\Tuple.csproj", "{576456F2-3816-4E76-A0D8-691C58722975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable Type", "Nullable Type\Nullable Type.csproj", "{AE4B07EC-FF1D-4868-961C-3A67564FC12F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nullable Type", "Nullable Type\Nullable Type.csproj", "{AE4B07EC-FF1D-4868-961C-3A67564FC12F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp b9 - exam 1", "Csharp b9 - exam 1\Csharp b9 - exam 1.csproj", "{745D27A2-C635-4460-9FC4-1F86890ED83A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp b9 - exam 1", "Csharp b9 - exam 1\Csharp b9 - exam 1.csproj", "{745D27A2-C635-4460-9FC4-1F86890ED83A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Annonymous Types", "Annonymous Types\Annonymous Types.csproj", "{2A589815-D99A-4F38-A3CD-BE320D197A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaMethod", "LamdaMethod\LamdaMethod.csproj", "{63D63AA7-1E0A-4D81-9D53-8819B70FE951}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{745D27A2-C635-4460-9FC4-1F86890ED83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{745D27A2-C635-4460-9FC4-1F86890ED83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{745D27A2-C635-4460-9FC4-1F86890ED83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A589815-D99A-4F38-A3CD-BE320D197A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A589815-D99A-4F38-A3CD-BE320D197A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A589815-D99A-4F38-A3CD-BE320D197A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A589815-D99A-4F38-A3CD-BE320D197A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D63AA7-1E0A-4D81-9D53-8819B70FE951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D63AA7-1E0A-4D81-9D53-8819B70FE951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D63AA7-1E0A-4D81-9D53-8819B70FE951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D63AA7-1E0A-4D81-9D53-8819B70FE951}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
