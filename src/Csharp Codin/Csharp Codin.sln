@@ -13,7 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Annonymous Types", "Annonym
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LamdaMethod", "LamdaMethod\LamdaMethod.csproj", "{63D63AA7-1E0A-4D81-9D53-8819B70FE951}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsExample", "GenericsExample\GenericsExample.csproj", "{225FC262-F6A1-48F8-8D62-A5CB6308F6D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsExample", "GenericsExample\GenericsExample.csproj", "{225FC262-F6A1-48F8-8D62-A5CB6308F6D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportantInterfaces", "ImportantInterfaces\ImportantInterfaces.csproj", "{3DB24FB9-2F25-4CB3-817E-92991E8A77DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Method and Class", "Abstract Method and Class\Abstract Method and Class.csproj", "{9826391E-3075-4A8D-BB50-CDE7CAB7FC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{A4EA6598-137C-4F6D-AC0D-D0028B705AFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{225FC262-F6A1-48F8-8D62-A5CB6308F6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{225FC262-F6A1-48F8-8D62-A5CB6308F6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{225FC262-F6A1-48F8-8D62-A5CB6308F6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB24FB9-2F25-4CB3-817E-92991E8A77DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB24FB9-2F25-4CB3-817E-92991E8A77DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB24FB9-2F25-4CB3-817E-92991E8A77DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB24FB9-2F25-4CB3-817E-92991E8A77DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9826391E-3075-4A8D-BB50-CDE7CAB7FC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9826391E-3075-4A8D-BB50-CDE7CAB7FC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9826391E-3075-4A8D-BB50-CDE7CAB7FC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9826391E-3075-4A8D-BB50-CDE7CAB7FC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4EA6598-137C-4F6D-AC0D-D0028B705AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4EA6598-137C-4F6D-AC0D-D0028B705AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4EA6598-137C-4F6D-AC0D-D0028B705AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4EA6598-137C-4F6D-AC0D-D0028B705AFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

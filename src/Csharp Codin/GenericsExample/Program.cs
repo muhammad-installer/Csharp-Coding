@@ -1,5 +1,4 @@
 ﻿using GenericsExample;
-using System.Collections;
 using System.Text;
 
 Console.WriteLine("--------------------------- 1 --------------------------");
@@ -45,7 +44,7 @@ kvp2.Value = "Information Technology";
 DataStore<string> dataStore = new DataStore<string>();
 dataStore.arr[0] = "Jannat";
 dataStore.arr[1] = "Muhammad";
-dataStore.arr[2]= "Salman";
+dataStore.arr[2] = "Salman";
 
 Console.WriteLine(dataStore.arr[1]);
 
@@ -107,7 +106,7 @@ GenericClass<char> genChar = new GenericClass<char>('x');
 // whereas unboxing refers to the conversion of the object type to value type.)
 
 
-Point<int, double> point1 = new Point<int,double>();
+Point<int, double> point1 = new Point<int, double>();
 point1.X = 24;
 point1.Y = 34.3;
 
@@ -119,11 +118,11 @@ point2.Y = 34.43;
 
 
 
-PointFInal<int  > point3 = new PointFInal<int>();
+PointFInal<int> point3 = new PointFInal<int>();
 
 
 
- PointWithConstraint<StringBuilder, int> point4 = new PointWithConstraint<StringBuilder, int>();    
+PointWithConstraint<StringBuilder, int> point4 = new PointWithConstraint<StringBuilder, int>();
 
 
 Box<Book> bookBox = new Box<Book>();
